@@ -1,5 +1,3 @@
-"# bookreview-blockchain" 
-
 <!-- Blockchain -->
 venv\Scripts\activate
 
